@@ -12,4 +12,4 @@ If you use this extension, use it, BEFORE the launch of the shop. Afterwards you
 
 Dependencies
 ------------
-- MySQL 5.0.3 - the password field in the admin_user and customer-table will be extended to 300chars, MySQL < 5.0.3 can only hold 255 chars in a VARCHAR field
+- MySQL 5.0.3 - the password field in the admin_user and customer-table will be extended to 800 chars, MySQL < 5.0.3 can only hold 255 chars in a VARCHAR field!
